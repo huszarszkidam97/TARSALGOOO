@@ -1,0 +1,7 @@
+C:\Users\Ádám\source\repos\4esFeladat\4esFeladat\bin\Debug\4esFeladat.exe.config
+C:\Users\Ádám\source\repos\4esFeladat\4esFeladat\bin\Debug\4esFeladat.exe
+C:\Users\Ádám\source\repos\4esFeladat\4esFeladat\bin\Debug\4esFeladat.pdb
+C:\Users\Ádám\source\repos\4esFeladat\4esFeladat\obj\Debug\4esFeladat.csprojAssemblyReference.cache
+C:\Users\Ádám\source\repos\4esFeladat\4esFeladat\obj\Debug\4esFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\source\repos\4esFeladat\4esFeladat\obj\Debug\4esFeladat.exe
+C:\Users\Ádám\source\repos\4esFeladat\4esFeladat\obj\Debug\4esFeladat.pdb
